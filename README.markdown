@@ -1,7 +1,7 @@
 # [Jekyll](https://jekyllrb.com/)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
-[![Build Status](https://travis-ci.org/jekyll/jekyll.svg?branch=master)][travis]
+[![Build Status](http://www.testributor.com/projects/52-jekyll/status?branch=master)][testributor]
 [![Test Coverage](https://codeclimate.com/github/jekyll/jekyll/badges/coverage.svg)][coverage]
 [![Code Climate](https://codeclimate.com/github/jekyll/jekyll/badges/gpa.svg)][codeclimate]
 [![Dependency Status](https://gemnasium.com/jekyll/jekyll.svg)][gemnasium]
@@ -12,7 +12,7 @@
 [codeclimate]: https://codeclimate.com/github/jekyll/jekyll
 [coverage]: https://codeclimate.com/github/jekyll/jekyll/coverage
 [hakiri]: https://hakiri.io/github/jekyll/jekyll/master
-[travis]: https://travis-ci.org/jekyll/jekyll
+[testributor]: http://www.testributor.com/projects/52-jekyll
 
 Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
 
